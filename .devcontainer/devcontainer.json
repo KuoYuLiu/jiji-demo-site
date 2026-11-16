@@ -1,0 +1,21 @@
+{
+  "name": "線上策展網站",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "GitHub.copilot",
+        "GitHub.copilot-chat",
+        "ms-vscode.live-server",
+        "MS-CEINTL.vscode-language-pack-zh-hant"
+      ],
+      "settings": {
+        "files.autoSave": "afterDelay",
+        "git.enableSmartCommit": true,
+        "git.postCommitCommand": "sync",
+        "git.confirmSync": false,
+        "git.autofetch": true
+      }
+    }
+  }
+}
