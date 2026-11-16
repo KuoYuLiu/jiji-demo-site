@@ -2,7 +2,7 @@
 
 數位人文地方策展專題實作｜教師示範網站
 
-網站網址：https://kuoyuliu.github.io/jiji-demo-site/ 【發布後貼上】
+網站網址：https://kuoyuliu.github.io/jiji-demo-site/ 
 
 這是一個**完整的線上策展網站範例**，用來在課堂上解說：一個策展網站從內容、圖片授權、版面設計到互動元件，可以做到什麼程度，以及它是怎麼組成的。
 
